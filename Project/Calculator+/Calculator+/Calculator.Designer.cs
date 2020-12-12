@@ -305,7 +305,7 @@
             this.btnTg.Name = "btnTg";
             this.btnTg.Size = new System.Drawing.Size(137, 50);
             this.btnTg.TabIndex = 22;
-            this.btnTg.Text = "tg";
+            this.btnTg.Text = "tan";
             this.btnTg.UseVisualStyleBackColor = true;
             this.btnTg.MouseDown += new System.Windows.Forms.MouseEventHandler(this.handleBtnClick);
             // 
@@ -316,7 +316,7 @@
             this.btnCtg.Name = "btnCtg";
             this.btnCtg.Size = new System.Drawing.Size(137, 50);
             this.btnCtg.TabIndex = 23;
-            this.btnCtg.Text = "ctg";
+            this.btnCtg.Text = "1/tan";
             this.btnCtg.UseVisualStyleBackColor = true;
             this.btnCtg.MouseDown += new System.Windows.Forms.MouseEventHandler(this.handleBtnClick);
             // 
